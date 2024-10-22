@@ -30,7 +30,7 @@ This tool is designed to assist in calculating dynamic coccyx angles from radiog
 
 1. Run the application:
     ```bash
-    python coccyx_angle_tool.py
+    python app.pyw
     ```
 2. Load two radiographs using the `Load Image` buttons. The first image should be a standing lateral radiograph, and the second should be taken in the sitting position, as per the protocol outlined in the article by Maigne et al.
 3. Use the provided tools to:
